@@ -48,7 +48,8 @@ COPYRIGHT
 =========
 
 vnc-auth.nse - A VNC authentication scanner for Nmap
-Copyright (C) 2009 Steve Ocepek
+Created by Steve Ocepek
+Copyright (C) 2009, 2010 Trustwave Holdings, Inc.
  
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
